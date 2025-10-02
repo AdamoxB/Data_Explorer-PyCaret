@@ -1,0 +1,9 @@
+2025-10-02 14:13:32,370:WARNING:C:\Users\biela\.conda\envs\pycaret_explore_1\Lib\site-packages\scipy\__init__.py:145: UserWarning: A NumPy version >=1.21.6 and <1.28.0 is required for this version of SciPy (detected version 2.3.3)
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-10-02 14:14:26,377:WARNING:C:\Users\biela\.conda\envs\pycaret_explore_1\Lib\site-packages\scipy\__init__.py:145: UserWarning: A NumPy version >=1.21.6 and <1.28.0 is required for this version of SciPy (detected version 2.3.3)
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-10-02 14:51:09,896:WARNING:C:\Users\biela\.conda\envs\pycaret_explore_1\Lib\site-packages\scipy\__init__.py:145: UserWarning: A NumPy version >=1.21.6 and <1.28.0 is required for this version of SciPy (detected version 2.3.3)
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
